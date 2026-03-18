@@ -5,7 +5,7 @@
 
 ## Welcome to My Page! 👋
 <div>
-    Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting modern, user-focused web applications.
+    Hi, I'm Huy, a Back-End Software Engineer passionate about crafting modern, user-focused web applications.
 </div>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
@@ -40,31 +40,12 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-
-
 
 ##  Tech Stack
 
 <table align="center">
   <tr>
-    <td align="center" width="140">
-      <img src="./TechStack/spring.svg" alt="SpringBoot" width="65" height="65" />
-      <br />SpringBoot
-    </td>
     <td align="center" width="140">
       <img src="./TechStack/nextjs-icon.svg" alt="NextJS" width="65" height="65" />
       <br />NextJS
@@ -99,19 +80,11 @@
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
       <br />Redux
     </td>
-    <td align="center" width="140">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br />MySQL
-    </td>
   </tr>
   <tr>
     <td align="center" width="140">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="RESTful API" width="65" height="65" />
       <br />RESTful API
-    </td>
-    <td align="center" width="140">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-      <br />Docker
     </td>
     <td align="center" width="140">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
