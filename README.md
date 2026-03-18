@@ -12,18 +12,18 @@
 </p>
 
 ##  About Me
-<img src="https://github.com/thachtaro2210/thachtaro2210/blob/main/illustration.png" min-width="300px" max-width="200px" width="280px" align="right">
+<img src="https://github.com/huydotcode/huydotcode/blob/main/illustration.png" min-width="300px" max-width="200px" width="280px" align="right">
 
 -  I specialize in developing robust backend systems with **Java** and **Spring Boot**, alongside building dynamic frontends using **React**, **Node.js**, and **MongoDB**, with a focus on clean architecture and performance.
 -  Currently working on: Enhancing enterprise applications with **Spring Boot** and integrating **React** for responsive UIs.
--  Let’s connect! Check out my projects below or reach me on [GitHub](https://github.com/thachtaro2210).
+-  Let’s connect! Check out my projects below or reach me on [GitHub](https://github.com/huydotcode).
 
 
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=thachtaro2210)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=huydotcode)
 ##  How to reach me: 
 
 [LeetCode](https://leetcode.com/u/thachtaro/)
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/thachtaro2210/) 
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/huydotcode/) 
 
 
 
@@ -160,9 +160,9 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thachtaro2210&show_icons=true&theme=default&include_all_commits=true&count_private=true&bg_color=F5F5F5&title_color=00ffff&text_color=333133&icon_color=00ffff&border_color=e4e2e2&ring_color=00ffff"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huydotcode&show_icons=true&theme=default&include_all_commits=true&count_private=true&bg_color=F5F5F5&title_color=00ffff&text_color=333133&icon_color=00ffff&border_color=e4e2e2&ring_color=00ffff"/>
     
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thachtaro2210&layout=compact&langs_count=8&theme=default&bg_color=F5F5F5&title_color=00ffff&text_color=333133&border_color=e4e2e2"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huydotcode&layout=compact&langs_count=8&theme=default&bg_color=F5F5F5&title_color=00ffff&text_color=333133&border_color=e4e2e2"/>
 </div>
 
 
