@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td align="center" width="140">
-      <img src="./TechStack/tailwind.svg" alt="TailwindCSS" width="65" height="65" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png" alt="TailwindCSS" width="65" height="65" />
       <br />TailwindCSS
     </td>
     <td align="center" width="140">
@@ -72,7 +72,7 @@
       <br />React
     </td>
     <td align="center" width="140">
-      <img src="./TechStack/nestjs.svg" alt="NestJS" width="65" height="65" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" width="65" height="65" />
       <br />NestJS
     </td>
     <td align="center" width="140">
