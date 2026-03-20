@@ -46,7 +46,7 @@
 <table align="center">
   <tr>
     <td align="center" width="140">
-      <img src="./TechStack/nextjs-icon.svg" alt="NextJS" width="65" height="65" />
+      <img src="[./TechStack/nextjs-icon.svg](https://www.svgrepo.com/show/354113/nextjs-icon.svg)" alt="NextJS" width="65" height="65" />
       <br />NextJS
     </td>
     <td align="center" width="140">
