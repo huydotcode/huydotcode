@@ -58,7 +58,7 @@
       <br />TypeScript
     </td>
     <td align="center" width="140">
-      <img src="./TechStack/nodejs.svg" alt="NodeJS" width="65" height="65" />
+      <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" alt="NodeJS" width="65" height="65" />
       <br />NodeJS
     </td>
   </tr>
