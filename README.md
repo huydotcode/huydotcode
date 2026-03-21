@@ -12,8 +12,6 @@
 </p>
 
 ##  About Me
-<img src="https://github.com/huydotcode/huydotcode/blob/main/illustration.png" min-width="300px" max-width="200px" width="280px" align="right">
-
 -  I specialize in building dynamic web applications as a Fullstack Developer, with a strong focus on modern frontends using Next.js and React, alongside developing robust backends with Express.js and Node.js, prioritizing clean architecture and performance.
 
 -  Currently working on: Crafting responsive, SEO-friendly UIs with Next.js and building scalable APIs using Express.js.
